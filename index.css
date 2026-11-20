@@ -1,0 +1,100 @@
+body {
+  background-color: rgb(193, 148, 100);
+}
+
+.Titulo {
+  color: rgb(53, 85, 18);
+  font-size: 100px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+  margin-left: 700px;
+}
+
+.Titulo + div {
+  color: rgb(53, 85, 18);
+  font-size: 70px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin-left: 300px;
+}
+
+p {
+  color: rgb(53, 85, 18);
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: justify;
+  padding: 5px;
+  margin-left: 60px;
+  margin-right: 110px;
+}
+
+h2 {
+
+  color: rgb(53, 85, 18);
+  font-size: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+table strong, table td {
+  color: rgb(53, 85, 18);
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-right: 100px;
+}
+
+div #sumario {
+  margin-left: 60px;
+}
+
+div #O-que-e-a-aranha-golias {
+  margin-left: 700px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border: solid;
+  padding: 15px;
+  margin: 0px;
+}
+
+nav {
+  margin-left: 60px;
+}
+
+li, a {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 25px;
+  color: rgb(53, 85, 18);
+  padding-bottom: 15px;
+}
+
+#Aranha-golías-comedora-de-pássaros-1 {
+  margin-left: 520px;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+#div-1 {
+  position: relative;
+}
+
+#div-1 p {
+  margin-right: 600px;
+}
+
+#div-1 aside {
+  border: solid;
+  padding: 15px;
+  color: rgb(53, 85, 18);
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: justify;
+  line-height: 1.7;
+  width: 400px;
+  height: 420px;
+  position: absolute;
+  left: 1460px;
+  bottom: 5px;
+  box-sizing: border-box;
+}
